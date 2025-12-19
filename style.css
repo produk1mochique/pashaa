@@ -1,0 +1,38 @@
+body {
+  font-family: Arial;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.center {
+  margin-top: 120px;
+}
+
+button {
+  padding: 10px 20px;
+  background: #ff8fab;
+  border: none;
+  color: white;
+  cursor: pointer;
+}
+
+.hero {
+  background: url('images/wallpaper.jpg') no-repeat center;
+  background-size: cover;
+  height: 100vh;
+  color: white;
+  padding-top: 150px;
+}
+
+.produk {
+  display: inline-block;
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+  width: 200px;
+}
+
+.produk img {
+  width: 100%;
+}
